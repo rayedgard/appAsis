@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="clases.Entidades.cAgencia" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIACAAAAAAAAAAAAAAAAAAAAAAAAAAgI=</HashCode>
+      <FileName>Entidades\cAgencia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="clases.Entidades.cArea" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Entidades\cArea.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="clases.Entidades.cAsistencia" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAYAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Entidades\cAsistencia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="clases.Entidades.cDia" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAYAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Entidades\cDia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="clases.Entidades.cEmpleado" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAQAAAACAAAAAAAAAAAIACAAAAAAQgA=</HashCode>
+      <FileName>Entidades\cEmpleado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="clases.Entidades.cHorario" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Entidades\cHorario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="clases.Entidades.cModalidad" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Entidades\cModalidad.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="clases.Entidades.cPermisos" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAYAAAQAAAAAAAAAAAAIAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Entidades\cPermisos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="clases.Entidades.cPersona" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgACAABAACAIACgAAABAAAAAAAAAAAAACAAAAAAAkI=</HashCode>
+      <FileName>Entidades\cPersona.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="clases.Entidades.cReloj" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Entidades\cReloj.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="clases.Entidades.cTipoPermiso" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAIAAAACAAAAAAAAAAAEIAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Entidades\cTipoPermiso.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="clases.Entidades.cTurno" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAIAAAACAAAAAAAAAAAAABAAAAABAAAAAAgE=</HashCode>
+      <FileName>Entidades\cTurno.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="clases.Entidades.cVacaciones" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAABAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAkA=</HashCode>
+      <FileName>Entidades\cVacaciones.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
